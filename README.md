@@ -1,1 +1,1 @@
-# -Nitro-Miner
+# Nitro-Miner
